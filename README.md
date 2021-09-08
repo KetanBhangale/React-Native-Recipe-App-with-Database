@@ -7,6 +7,11 @@
 5. Custom Compoents and fonts.
 6. SQlite database for offline access.
 
+API used from: https://www.themealdb.com
+
+Same app is developed in Native using Kotlin-MVVM-RoomDB. Refer link below:
+https://github.com/KetanBhangale/Recipe-App-Android--Native-App-with-Database.git
+
 Screenshots:
 <div align="center">
     <img src="screenshots/Screenshot_20210907-202910.jpg" width="400px" </img> &nbsp;&nbsp;&nbsp; <img src="screenshots/Screenshot_20210907-202915.jpg" width="400px" </img> 
